@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Occasions" max_length="40" name="x_58872_needit_occasions" sizeclass="0" type="collection">
+        <element label="First" max_length="30" name="first" type="field_name"/>
+        <element label="Three" mandatory="true" max_length="80" name="three" type="field_name"/>
+        <element label="Two" max_length="30" name="two" type="field_name"/>
+    </element>
+</database>
